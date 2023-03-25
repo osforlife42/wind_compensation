@@ -10,4 +10,4 @@ V_ortho - velocity vector of the orthogonal part of the wind speed to the desire
 
 V_c - velocity vector of the desired speed with wind compensation.
 
-![math explanation](./math_explanation.png)
+![math explanation](./docs/math_explanation.png)
